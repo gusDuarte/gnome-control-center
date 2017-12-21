@@ -1,0 +1,17 @@
+[Desktop Entry]
+_Name=Keyboard
+_Comment=View and change keyboard shortcuts and set your typing preferences
+Exec=gnome-control-center keyboard
+Icon=input-keyboard
+Terminal=false
+Type=Application
+NoDisplay=true
+StartupNotify=true
+Categories=GNOME;GTK;Settings;HardwareSettings;X-GNOME-Settings-Panel;
+OnlyShowIn=GNOME;Unity;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-control-center
+X-GNOME-Bugzilla-Component=keyboard
+X-GNOME-Bugzilla-Version=@VERSION@
+# Translators: those are keywords for the keyboard control-center panel
+_Keywords=Shortcut;Repeat;Blink;
