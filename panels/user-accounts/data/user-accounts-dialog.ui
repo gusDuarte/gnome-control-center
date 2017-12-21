@@ -81,7 +81,7 @@
                         </style>
                         <child>
                           <object class="GtkToolButton" id="add-user-toolbutton">
-                            <property name="visible">True</property>
+                            <property name="visible">False</property>
                             <property name="can_focus">False</property>
                             <property name="icon_name">list-add-symbolic</property>
                             <property name="label" translatable="yes">Add User Account</property>
@@ -93,7 +93,7 @@
                         </child>
                         <child>
                           <object class="GtkToolButton" id="remove-user-toolbutton">
-                            <property name="visible">True</property>
+                            <property name="visible">False</property>
                             <property name="can_focus">False</property>
                             <property name="icon_name">list-remove-symbolic</property>
                             <property name="label" translatable="yes">Remove User Account</property>
