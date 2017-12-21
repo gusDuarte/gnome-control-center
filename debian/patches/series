@@ -1,3 +1,4 @@
+ceibal_disable_add_del_user_button.patch
 06_handle_passwd_with_ldap.patch
 07_polkit_wheel_sudo_group.patch
 52_region_language.patch
